@@ -81,7 +81,7 @@ catalog:
   dayjs: ^1.11.13
   defu: ^6.1.4
   depcheck: ^1.4.7
-  dotenv: ^16.4.5
+  dotenv: ^16.4.7
   echarts: ^5.5.1
   element-plus: ^2.8.7
   eslint: ^9.14.0
